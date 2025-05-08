@@ -7,6 +7,11 @@
         <mxCell id="bOACX9tL4hwP7ODfwxjM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;dashed=1;flowAnimation=1;" parent="1" source="bOACX9tL4hwP7ODfwxjM-2" target="bOACX9tL4hwP7ODfwxjM-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UmFuiZ90BuAGQyqjr-My-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bOACX9tL4hwP7ODfwxjM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bOACX9tL4hwP7ODfwxjM-2" value="FinOps Users" style="sketch=0;outlineConnect=0;fontColor=#FFFFFF;gradientColor=none;fillColor=#FFFFFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="1" vertex="1">
           <mxGeometry x="98" y="188" width="58" height="58" as="geometry" />
         </mxCell>
@@ -64,6 +69,9 @@
         </mxCell>
         <mxCell id="UmFuiZ90BuAGQyqjr-My-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png;" vertex="1" parent="UmFuiZ90BuAGQyqjr-My-8">
           <mxGeometry x="284.33000000000004" width="51.35" height="58.17" as="geometry" />
+        </mxCell>
+        <mxCell id="UmFuiZ90BuAGQyqjr-My-12" value="Ask question&lt;div&gt;in natural language&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="127.00241379310347" y="156.0000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
